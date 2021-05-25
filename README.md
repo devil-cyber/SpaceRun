@@ -19,3 +19,6 @@ python main.py # App will start on the desktop
 
 
 ```
+To get android app click on [link](https://drive.google.com/file/d/1t8FmDgd31XX3mcr61csV_QTHOyx1fjxs/view?usp=sharing)
+
+Demo youtube video [link](https://www.youtube.com/watch?v=53eN27rmaUM)
