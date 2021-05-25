@@ -1,0 +1,3 @@
+title=SpaceRun
+author=Manikant Kumar
+orientation=landscape
