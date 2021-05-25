@@ -1,6 +1,6 @@
 ## Space Run App
 
-**This is an android apllication that i have built using python and by taking help from some tutorial**
+**This is an android apllication that i have built using python and by taking help from some tutorial as python project**
 
 ## The App Look like:
 
